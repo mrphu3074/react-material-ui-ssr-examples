@@ -1,0 +1,11 @@
+html, body {
+    margin:0;
+    padding: 0;
+}
+
+.paper-example {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
